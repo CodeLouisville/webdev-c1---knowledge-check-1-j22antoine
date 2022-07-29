@@ -201,7 +201,7 @@ a:hover, a:active {
 
 .btn:hover, .btn:focus, .btn:active {
     background: #74b44a;
-    color: #F1F1F1;
+    color: purple;
     border: 2px solid #74b44a;
 }
 
